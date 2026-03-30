@@ -85,6 +85,14 @@ To build a successful career in networking and IT support by applying practical 
 
 ---
 
+##   Curriculum Vitae (CV)
+[View my CV](./221573186 - Bongiwe Ntwasa CV.pdf)
+
+### Mock Interview Video
+[Watch my Mock Interview]( https://youtube.com/shorts/oX4cv_uA7ik?feature=share)
+
+---
+
 ##   Contact Me
 
 * 🔗 GitHub: https://github.com/221573186
